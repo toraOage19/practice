@@ -7,11 +7,11 @@ function App() {
       <input type="checkbox" />
       <p>Manchester United</p>
       <input type="checkbox" />
-      <p>Villareal</p>
+      <p>Manchester United</p>
       <input type="checkbox" />
-      <p>Atalanta</p>
+      <p>Manchester United</p>
       <input type="checkbox" />
-      <p>Young boys</p>
+      <p>Manchester United</p>
     </div>
   );
 }
